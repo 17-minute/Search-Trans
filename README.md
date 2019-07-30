@@ -71,7 +71,7 @@ You can control the following using the checkbox in the window.
 <img src="https://github.com/17-minute/Search-Trans/blob/img/version.png" width="60%">
 ※ PowerShell 6には対応していません。おそらく、PowerShell 7には対応すると思われます。 
 
-※ This function does not support PowerShell 6, but maybe do PowerShell 7.
+※ This function does not support PowerShell 6, but maybe does PowerShell 7.
 
 # 事前準備 - Excelファイルの整形 / Before execution - Excel files arrangement
 検索対象となるExcelファイルは次のように整えます。
