@@ -63,7 +63,7 @@ You can control the following using the checkbox in the window.
 
 <img src="https://github.com/17-minute/Search-Trans/blob/img/search_window_variable.PNG" width="60%">
 
-<img src="https://github.com/17-minute/Search-Trans/blob/img/search_window_variable.PNG" width="60%">
+<img src="https://github.com/17-minute/Search-Trans/blob/img/result_variable.PNG" width="60%">
 
 # 実行環境 / Environment
 - OS: Windows 10 64-bit operating system
