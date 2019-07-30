@@ -56,10 +56,12 @@ Excel形式の翻訳ファイルをチェックするためのPowerShell関数�
 1. 関数を実行
 
    実行演算子などを使用
+   
    <img src="https://github.com/17-minute/Search-Trans/blob/img/execution_func.PNG" width="60%">
 2. 関数の呼び出し
 
    検索対象となるExcelファイルが入ったディレクトリを-directoryパラメータの引数にして実行（パラメータ名は省略可能）
+   
    <img src="https://github.com/17-minute/Search-Trans/blob/img/execution_command.PNG" width="60%">
 3. 検索ウィンドウの入力
    - Search string (1): ファイル内で検索したい文字列を入力
