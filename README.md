@@ -23,11 +23,11 @@ Excel形式の翻訳ファイルをチェックするためのPowerShell関数�
 ## 用例2
 任意で「Search string (2)」に文字列を指定すると、「Search string (1)」指定した検索文字列で得られたセルのテキストに対応する訳文（原文）に対してその文字列を検索します。
 
-<img src="https://github.com/17-minute/self-script/blob/img/search_window_enable.PNG" width="60%">
+<img src="https://github.com/17-minute/Search-Trans/blob/img/search_window_Enable.PNG" width="60%">
 
 文字列がテキスト内にある場合はそのまま出力されますが、ない場合はまとめて最後に出力されます。それらの情報は黄色の文字になります。
 
-<img src="https://github.com/17-minute/self-script/blob/img/new_result_Enable.PNG" width="60%">
+<img src="https://github.com/17-minute/Search-Trans/blob/img/result_Enable.PNG" width="60%">
 
 ## オプション
 ウィンドウのチェックボックスで次の2つを制御できます。
