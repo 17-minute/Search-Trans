@@ -277,8 +277,8 @@ function Search-Trans
 
 
 
-        #  出力
-        
+        #出力
+        #output
         Write-Host "`n`n`n$($cellInfoObjects.Count) lines have been found in total!" -ForegroundColor Cyan
 
         #常に「原文-訳文」の順に出力
