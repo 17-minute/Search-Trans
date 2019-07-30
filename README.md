@@ -82,5 +82,6 @@ Excelファイルの拡張子は.xls、.xlsx、.xlsmのいずれかであれば�
 
 # 作成者
 17-minute
+
 Qiita: @yasaram (https://qiita.com/yasaram)
 
