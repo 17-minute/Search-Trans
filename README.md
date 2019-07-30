@@ -2,6 +2,9 @@ English version is under construction
 
 # 概要:
 Excel形式の翻訳ファイルをチェックするためのPowerShell関数です。
+B列に原文、C列に対応する訳文が入っている翻訳ファイルの訳文が原文通りになっているか確かめるために使う関数になります。
+
+<img src="https://github.com/17-minute/Search-Trans/blob/img/excel.PNG" width="60%">
 
 ## 用例1
 ファイル内に「value」という語が含まれているかどうかを確認したい場合は、検索用のウィンドウの「Search string (1)」に「value」と入力して「OK」をクリックします。
@@ -52,9 +55,8 @@ Excel形式の翻訳ファイルをチェックするためのPowerShell関数�
 
 Excelファイルの拡張子は.xls、.xlsx、.xlsmのいずれかであれば対応できます。
 
-<img src="https://github.com/17-minute/Search-Trans/blob/img/excel.PNG" width="60%">
 
-# 使いかた
+# 用法
 1. 関数を実行
 
    実行演算子などを使用
