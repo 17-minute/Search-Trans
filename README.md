@@ -14,7 +14,7 @@ The function can help us to check if translated texts are translated correctly. 
 
 If you want to check if the specified files contain the word "value", enter "value" at "Search string (1)" in the window for search and click "OK".
 
-<img src="https://github.com/17-minute/Search-Trans/blob/img/search_window_variable.PNG" width="60%">
+<img src="https://github.com/17-minute/Search-Trans/blob/img/search_window_value.PNG" width="60%">
 
 実行すると、関数実行時に指定したディレクトリ内のExcelファイルから「value」を含むセルを検索します。
 検索後、次の情報を出力します。
