@@ -50,6 +50,8 @@ Excel形式の翻訳ファイルをチェックするためのPowerShell関数�
 - 同じ行のB列とC列同士の内容は対応させる
 - 翻訳データはシート1にのみに入れる（シート1以外は検索対象外となる）
 
+Excelファイルの拡張子は.xls、.xlsx、.xlsmのいずれかであれば対応できます。
+
 <img src="https://github.com/17-minute/Search-Trans/blob/img/excel.PNG" width="60%">
 
 # 使いかた
