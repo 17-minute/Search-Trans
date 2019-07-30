@@ -44,10 +44,9 @@ function Search-Trans
              [string]$this.CorrText = $corrtext
          }  
      }
-
-     #############################
+     
      #メッセージボックスの設置
-     #############################
+     #setting a message box
      Add-Type -AssemblyName System.Windows.Forms
      Add-Type -AssemblyName Microsoft.Visualbasic
      Add-Type -AssemblyName System.Drawing
