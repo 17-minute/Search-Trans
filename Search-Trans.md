@@ -241,7 +241,7 @@ function Search-Trans
               }
 
           #文字列内の「#」を区切り文字にして出力するクラスを定義
-          #define the class that output a string specifying 「#」as the delimiter
+          #define the class that output a string specifying "#" as a delimiter
           class ColoriseText{
              static[void]OutputText($string, $keyword){
                  @($string -split "#")|
@@ -284,9 +284,10 @@ function Search-Trans
         #常に「原文-訳文」の順に出力
         #検索文字列がセルのテキスト内にある場合、その箇所だけ文字色を赤にして出力
         #セルのテキスト内に任意の検索文字列がない場合は$notMatchに格納して別に出力
-        #always output the order "original-translation"
+        #Always output the order "original-translation"
         #Output the searching string with the letters red if the cell text includes it 
-        #if the cell text doesn't include the searching string, assign the cell text to $notMatch and output separately
+        #If the cell text doesn't include the searching string, 
+        #assign the cell text to $notMatch and output separately
         
           if($baseistarget.Checkstate -eq "Checked"){
                ForEach($cellInfoObject in $cellInfoObjects){                               
