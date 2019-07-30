@@ -1,3 +1,4 @@
+```powershell
 function Search-Trans
 {
     [CmdletBinding()]
@@ -383,3 +384,4 @@ function Search-Trans
        ForEach-Object{[void][Runtime.InteropServices.Marshal]::ReleaseComObject($_)}
     }
 }
+```
